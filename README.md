@@ -16,6 +16,6 @@ $ npm start
 front:
 open new terminal(Ctrl+~)
 ```
-$ cd Nauka-hiszpa-skiego
+$ cd Nauka-hiszpanskiego
 $ npm start
 ```
